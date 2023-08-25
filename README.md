@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there! I'm Bhautik Ladva 👋
+
+
+![image](https://github.com/BhautikLadva/BhautikLadva/assets/72602198/8c068299-d004-49e0-a01a-fff7882211db)
 
 <!--
 **BhautikLadva/BhautikLadva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
