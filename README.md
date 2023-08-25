@@ -1,6 +1,6 @@
 ### Hey there! I'm Bhautik Ladva 👋
 
-<h3>A passionate MERN Stack developer</h3>
+## A passionate MERN Stack developer
 
 
 ![image](https://github.com/BhautikLadva/BhautikLadva/assets/72602198/8c068299-d004-49e0-a01a-fff7882211db)
